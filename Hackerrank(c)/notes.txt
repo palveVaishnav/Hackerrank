@@ -1,0 +1,15 @@
+FLOAT:
+    1)For printing a float upto one dieimal place we use 
+        " %0.1f "
+
+Strings:
+    1)For scaning a whole line until "\n" or next line we use
+            " %[^\n]s " or " %[^\n]%*c"
+
+
+
+#->bit wise operators
+All data is stored in its binary representation. 
+The logical operators, and C language,
+ use 1 to represent true and 0 to represent false.
+ The logical operators compare bits in two numbers and return true or false, 0,1 for , for each bit compared.
