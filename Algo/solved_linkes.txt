@@ -1,2 +1,18 @@
 #PLUS MINUS RATIO
 https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+
+
+#ABSOLUTE ARRAY DIFFERENCE
+https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true&h_r=next-challenge&h_v=zen
+
+# PRINTS PATTERN LIKE:
+'''
+prints pattern like:
+   #
+  ##
+ ###
+####
+
+'''
+https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+
